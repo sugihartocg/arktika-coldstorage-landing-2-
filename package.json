@@ -1,0 +1,21 @@
+{
+  "name": "arktika-coldstorage-landing-(2)",
+  "version": "1.0.0",
+  "description": "Landing page website cold storage menggunakan Astro",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@astrojs/ts-plugin": "^1.11.0",
+    "astro": "^7.4.11",
+    "typescript": "^6.0.3"
+  }
+}
